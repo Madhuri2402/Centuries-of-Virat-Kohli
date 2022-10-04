@@ -10,6 +10,7 @@
 #### Virat's Centuries Strike rate over the Years years(2010-2022) wrt Format except Test matches
 ![Virat's Centuries Strike rate over the Years years(2010-2022) wrt Format except Test matches](https://user-images.githubusercontent.com/106729604/193744405-713ab539-1f49-45b4-ba4f-be35b3f9c364.png)
 
-#### Centuries in different countries
-![newplot (8)](https://user-images.githubusercontent.com/106729604/193746009-c671ae6f-fcb8-49e9-9a6d-f6b378cd4c7b.png)
+#### Centuries in different countries with numbers
+![newplot (9)](https://user-images.githubusercontent.com/106729604/193746694-ce421957-0aff-47e8-bb83-92133bcddd4d.png)
+
 
